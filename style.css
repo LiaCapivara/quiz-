@@ -1,0 +1,28 @@
+body{
+
+    background-color: darkseagreen;
+    color:black;
+    font-family: "Chakra Petch", system-ui;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin:0px;
+    font-weight: bold;
+}
+
+
+button{
+
+    background-color: green ;
+    color:black;
+    font-family: "Chakra Petch", system-ui;
+
+}
+
+.passo{
+    display: none;
+}
+.passo.ativo{
+    display:block;
+}
